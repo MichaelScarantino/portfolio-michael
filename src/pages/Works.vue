@@ -170,11 +170,13 @@ name: 'Works',
 @media (max-width: 768px) { 
   // Works
   .works{
-    padding: 100px 40px;
+    padding-top: 80px;
     
     // H2
     h2{
-      font-size: 40px;
+      font-size: 30px;
+      padding-bottom: 0;
+      margin: 0;
     }
     .overlay{ 
       display: none;
