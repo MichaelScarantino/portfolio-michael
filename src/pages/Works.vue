@@ -12,7 +12,8 @@
           <div class="single-work my-3">
             <!-- Work img -->
             <div class="work-img">
-              <img :src="require(`../assets/img/` + singleWork.img)" alt="">
+              <a :href="singleWork.link" target="_blank"><img :src="require(`../assets/img/` + singleWork.img)" alt=""></a>
+              
             </div>
             <!-- Overlay -->
             <div class="overlay">
@@ -40,20 +41,6 @@
                   <a :href="singleWork.link" target="_blank"><i class="fa-solid fa-link"></i></a>
                 </span>
               </div>
-            </div>
-          </div>
-          <!-- Responsive -->
-          <div class="responsive text-center d-lg-none">
-            <!-- Resp title -->
-            <div class="resp-title">
-              {{singleWork.title}}
-            </div>
-            <!-- Resp link -->
-            <div class="resp-link">
-              <!-- Single link -->
-              <span class="single-link">
-                <a :href="singleWork.link" target="_blank"><i class="fa-solid fa-link"></i></a>
-              </span>
             </div>
           </div>
         </div>
