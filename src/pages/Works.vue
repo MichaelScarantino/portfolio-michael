@@ -167,7 +167,7 @@ name: 'Works',
   
 }
 
-@media (max-width: 576px) { 
+@media (max-width: 768px) { 
   // Works
   .works{
     padding: 30px;
@@ -175,6 +175,9 @@ name: 'Works',
     // H2
     h2{
       font-size: 40px;
+    }
+    .overlay{ 
+      display: none;
     }
   }
 }

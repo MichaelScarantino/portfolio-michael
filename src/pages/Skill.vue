@@ -131,11 +131,11 @@ export default {
 
       // Soft skills
       .soft-skills{
-        padding-top: 40px;
+        padding-top: 50px;
         
         // P
         p{
-          font-size: 25px;
+          font-size: 16px;
         }
       }
     }

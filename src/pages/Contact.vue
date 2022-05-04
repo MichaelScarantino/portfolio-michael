@@ -142,7 +142,7 @@ export default {
       // Contact link
       .contact-link{
         text-align: center;
-        top: 50%;
+        top: 40%;
         left: 0;
         right: 0;
         margin: 0 auto;
@@ -171,11 +171,14 @@ export default {
             .phone-resp,
             .location-resp {
               display: block;
-              font-size: 25px;
+              font-size: 20px;
               padding-left: 10px;
             }
           }
         }
+      }
+      .copyright{
+        padding-bottom: 30px;
       }
     }
   }
