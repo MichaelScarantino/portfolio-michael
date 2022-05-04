@@ -179,6 +179,8 @@ export default {
       }
       .copyright{
         padding-bottom: 60px;
+        font-size: 14px;
+        text-align: left;
       }
     }
   }
