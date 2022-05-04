@@ -157,11 +157,11 @@ name: 'Works',
 @media (max-width: 768px) { 
   // Works
   .works{
-    padding-top: 80px;
+    padding-top: 100px;
     
     // H2
     h2{
-      font-size: 30px;
+      font-size: 40px;
       padding-bottom: 0;
       margin: 0;
     }
