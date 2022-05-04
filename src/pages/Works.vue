@@ -179,6 +179,9 @@ name: 'Works',
     .overlay{ 
       display: none;
     }
+    .single-work:hover .overlay{
+    display: none;
+  }
   }
 }
 </style>

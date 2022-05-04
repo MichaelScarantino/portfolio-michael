@@ -175,9 +175,9 @@ export default {
               padding-left: 10px;
             }
             // Email hover Phone-hover Location hover
-              .email-resp,
-              .phone,
-              .location{
+              .email-hover:hover .email,
+              .phone-hover:hover .phone,
+              .location-hover:hover .location{
                 display: none;
               }
           }
