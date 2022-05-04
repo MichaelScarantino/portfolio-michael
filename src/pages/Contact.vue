@@ -174,11 +174,17 @@ export default {
               font-size: 20px;
               padding-left: 10px;
             }
+            // Email hover Phone-hover Location hover
+              .email-resp,
+              .phone,
+              .location{
+                display: none;
+              }
           }
         }
       }
       .copyright{
-        padding-bottom: 60px;
+        padding-bottom: 80px;
         font-size: 14px;
         text-align: left;
       }
