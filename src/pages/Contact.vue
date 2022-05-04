@@ -190,7 +190,7 @@ export default {
         }
       }
       .copyright{
-        padding-bottom: 80px;
+        padding-bottom: 15px;
         font-size: 14px;
         text-align: left;
       }
