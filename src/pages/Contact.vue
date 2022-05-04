@@ -176,16 +176,16 @@ export default {
             }
             
             // Email hover Phone-hover Location hover
-            .email,
-            .phone,
-            .location{
+            .email p,
+            .phone p,
+            .location p{
               display: none;
             }
-              .email-hover:hover .email,
-              .phone-hover:hover .phone,
-              .location-hover:hover .location{
-                display: none;
-              }
+            .email-hover:hover .email,
+            .phone-hover:hover .phone,
+            .location-hover:hover .location{
+              display: none;
+            }
           }
         }
       }
