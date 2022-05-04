@@ -122,7 +122,7 @@ export default {
   @media (max-width: 768px) { 
     // Skill
     .skill{
-      padding-top: 70px;
+      padding-top: 100px;
 
       // H2
       h2{

@@ -53,7 +53,7 @@ export default {
     // H2
     h2{
       font-size: 40px;
-      padding-top: 50px;
+      padding-top: 70px;
     }
     
     // P
