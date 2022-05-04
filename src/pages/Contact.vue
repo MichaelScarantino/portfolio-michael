@@ -142,14 +142,14 @@ export default {
       // Contact link
       .contact-link{
         text-align: center;
-        top: 40%;
+        top: 45%;
         left: 0;
         right: 0;
         margin: 0 auto;
         
         // H2
         h2{
-          font-size: 40px;
+          font-size: 30px;
         }
 
         // H2
@@ -163,7 +163,7 @@ export default {
 
             // I
             i{
-              font-size: 50px;
+              font-size: 30px;
             }
 
             // Email resp Phone resp Location resp
@@ -178,7 +178,7 @@ export default {
         }
       }
       .copyright{
-        padding-bottom: 30px;
+        padding-bottom: 60px;
       }
     }
   }
