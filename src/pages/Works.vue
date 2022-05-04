@@ -170,7 +170,7 @@ name: 'Works',
 @media (max-width: 768px) { 
   // Works
   .works{
-    padding: 30px 40px;
+    padding: 100px 40px;
     
     // H2
     h2{
