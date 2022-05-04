@@ -174,7 +174,13 @@ export default {
               font-size: 20px;
               padding-left: 10px;
             }
+            
             // Email hover Phone-hover Location hover
+            .email,
+            .phone,
+            .location{
+              display: none;
+            }
               .email-hover:hover .email,
               .phone-hover:hover .phone,
               .location-hover:hover .location{
