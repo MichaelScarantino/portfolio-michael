@@ -12,7 +12,7 @@
             <h2>
               About me:
             </h2>
-            <p>Hi, I'm Michael Scarantino and I'm 27 years old. I worked for 6 years in the factory as a line worker, I have always had a passion for computer science and in recent years I have approached programming. I just finished the Boolean Master and now I'm ready to turn my passion into a real job. In my free time I practice new projects to improve my coding and I play video games. The passion for video games has accompanied me since I was a child.</p>
+            <p>Hi, I'm Michael Scarantino and I'm 27 years old. I worked for 6 years in a factory as a line worker, I have always had a passion for computer science and in recent years I have approached programming. I just finished the Boolean Master and now I'm ready to turn my passion into a real job. In my free time I work on new projects to improve my coding and I play video games. The passion for video games has accompanied me since I was a child.</p>
           </div>
         </div>
       </div>
