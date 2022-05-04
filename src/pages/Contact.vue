@@ -158,7 +158,7 @@ export default {
           
           // Li
           li{
-            line-height: 50px;
+            line-height: 30px;
             text-align: center;
 
             // I
